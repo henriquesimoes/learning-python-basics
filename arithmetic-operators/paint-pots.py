@@ -12,7 +12,7 @@ Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço
 """
 
 import math
-area = float(input("Entre com a área a ser pintada:"))
+area = float(input("Entre com a área a ser pintada (em metros quadrados): "))
 latas = math.ceil((area/3)/18)
 preco = latas * 80
 print("Serão necessárias", latas, "latas, que custarão, ao todo, R$", preco)

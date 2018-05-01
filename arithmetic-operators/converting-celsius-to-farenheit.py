@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 26 11:33:30 2018
 
-@author: 15161000050
+@author: Henrique Simões
 
 Task: Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
 

@@ -17,4 +17,8 @@ elif day==2:
 elif day==4:
     print("Quarta")
 elif day==5:
-    print("Quinta)
+    print("Quinta")
+elif day==6:
+    print("Sexta")
+elif day==7:
+    print("Sábado")
